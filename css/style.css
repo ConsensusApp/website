@@ -2942,7 +2942,7 @@ h6 {
   color: #777777;
   margin-bottom: 30px; }
   .ab_widget p a {
-    color: #3bacf0; }
+    color: #cccccc; }
   .ab_widget p + p {
     margin-bottom: 0px; }
 
@@ -2952,7 +2952,7 @@ h6 {
     font-size: 14px;
     line-height: 24px;
     font-family: "Roboto", sans-serif;
-    color: #777777;
+    color: #cccccc;
     margin-bottom: 15px; }
   .news_widget .input-group input {
     height: 40px;
